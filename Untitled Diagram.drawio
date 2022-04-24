@@ -1,14 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-04-24T11:47:27.431Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="zMUrth-KUD6fcX4TW_AZ" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-24T11:49:24.146Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ASuyIFecZ9jDLVH9t6f-" version="17.4.6" type="github">
   <diagram id="RiEa_LIiVjmm5m1EeFZY" name="Page-1">
     <mxGraphModel dx="3599" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QIRS6wlmi_d21vc4t-xI-1" value="标绿是新民需要的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="350" width="110" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="QIRS6wlmi_d21vc4t-xI-11" value="1:n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="QIRS6wlmi_d21vc4t-xI-5" target="QIRS6wlmi_d21vc4t-xI-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-1" value="标绿是新民需要的&lt;br&gt;标红是意向单没有但是新民需要的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="345" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QIRS6wlmi_d21vc4t-xI-12" value="1:n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="QIRS6wlmi_d21vc4t-xI-5" target="QIRS6wlmi_d21vc4t-xI-7">
           <mxGeometry relative="1" as="geometry" />
@@ -28,8 +25,9 @@
         <mxCell id="QIRS6wlmi_d21vc4t-xI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="QIRS6wlmi_d21vc4t-xI-5" target="QIRS6wlmi_d21vc4t-xI-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="200" y="140" />
-              <mxPoint x="200" y="70" />
+              <mxPoint x="460" y="140" />
+              <mxPoint x="460" y="70" />
+              <mxPoint x="620" y="70" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -37,6 +35,9 @@
           <mxGeometry x="0.2" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-39" value="1:n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="QIRS6wlmi_d21vc4t-xI-5" target="QIRS6wlmi_d21vc4t-xI-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QIRS6wlmi_d21vc4t-xI-5" value="线索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="100" width="120" height="80" as="geometry" />
@@ -92,7 +93,7 @@
           <mxGeometry x="510" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QIRS6wlmi_d21vc4t-xI-8" value="联系人信息" style="whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="510" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="50" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QIRS6wlmi_d21vc4t-xI-10" value="地址信息" style="whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="510" y="240" width="120" height="60" as="geometry" />
@@ -101,7 +102,7 @@
           <mxGeometry x="50" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QIRS6wlmi_d21vc4t-xI-16" value="归属信息" style="whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="50" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QIRS6wlmi_d21vc4t-xI-21" value="网址信息：&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;url行业，&lt;br&gt;投放产品&lt;/font&gt;&lt;br&gt;&lt;div&gt;id 主键，唯一性id,&lt;/div&gt;&lt;div&gt;&amp;nbsp; net_order_id 意向单id,&lt;/div&gt;&lt;div&gt;&amp;nbsp; site_status&amp;nbsp; 网站状态：生效1，失效2，未知3,&lt;/div&gt;&lt;div&gt;&amp;nbsp; site_type 网站类型：pc站点0，移动站点 1,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;font color=&quot;#009900&quot;&gt;site_name &lt;/font&gt;网站名称,&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; site_url&lt;/font&gt; 网站URL,&lt;/div&gt;&lt;div&gt;&amp;nbsp; site_domai 网站主域,&lt;/div&gt;&lt;div&gt;&amp;nbsp; add_uc_id 录入人,&lt;/div&gt;&lt;div&gt;&amp;nbsp; add_pos_id 录入人岗位,&lt;/div&gt;&lt;div&gt;&amp;nbsp; add_time&amp;nbsp; 添加时间,&lt;/div&gt;&lt;div&gt;&amp;nbsp; upd_uc_id 更新人,&lt;/div&gt;&lt;div&gt;&amp;nbsp; upd_pos_id 更新人岗位,&lt;/div&gt;&lt;div&gt;&amp;nbsp; upd_time&amp;nbsp; 更新时间,&lt;/div&gt;&lt;div&gt;&amp;nbsp; version 乐观锁,&lt;/div&gt;&lt;div&gt;&amp;nbsp; PRIMARY KEY (id),&lt;/div&gt;&lt;div&gt;&amp;nbsp; KEY idx_net_order_id_url (net_order_id,site_url)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;align=left;" vertex="1" parent="1">
           <mxGeometry x="610" y="720" width="300" height="310" as="geometry" />
