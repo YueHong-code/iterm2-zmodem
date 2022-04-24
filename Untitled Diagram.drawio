@@ -1,1 +1,132 @@
-<mxfile host="app.diagrams.net" modified="2022-04-24T06:20:57.285Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="17.4.6" etag="jBQaCZOJcngkQ0sHian7" type="github"><diagram id="RiEa_LIiVjmm5m1EeFZY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-24T11:45:24.424Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Ey-pI-6uGlXge5aZknWd" version="17.4.6" type="github">
+  <diagram id="RiEa_LIiVjmm5m1EeFZY" name="Page-1">
+    <mxGraphModel dx="3817" dy="1253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-1" value="标绿是新民需要的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="350" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-11" value="1:n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="QIRS6wlmi_d21vc4t-xI-5" target="QIRS6wlmi_d21vc4t-xI-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-12" value="1:n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="QIRS6wlmi_d21vc4t-xI-5" target="QIRS6wlmi_d21vc4t-xI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-13" value="&lt;font color=&quot;#000000&quot;&gt;1:n&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontColor=#009900;" edge="1" parent="1" source="QIRS6wlmi_d21vc4t-xI-5" target="QIRS6wlmi_d21vc4t-xI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-15" value="1:n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.008;exitY=0.588;exitDx=0;exitDy=0;fontColor=#000000;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QIRS6wlmi_d21vc4t-xI-5" target="QIRS6wlmi_d21vc4t-xI-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="147" />
+              <mxPoint x="200" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="QIRS6wlmi_d21vc4t-xI-5" target="QIRS6wlmi_d21vc4t-xI-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="140" />
+              <mxPoint x="200" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-20" value="1:1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="QIRS6wlmi_d21vc4t-xI-18">
+          <mxGeometry x="0.2" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-5" value="线索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.029;entryY=0.672;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FF3333;" edge="1" parent="1" source="QIRS6wlmi_d21vc4t-xI-6" target="QIRS6wlmi_d21vc4t-xI-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-28" value="1:n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF3333;" vertex="1" connectable="0" parent="QIRS6wlmi_d21vc4t-xI-27">
+          <mxGeometry x="0.6251" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF3333;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QIRS6wlmi_d21vc4t-xI-6" target="QIRS6wlmi_d21vc4t-xI-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="1250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="1000" />
+              <mxPoint x="500" y="1280" />
+              <mxPoint x="610" y="1280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-31" value="1:n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF3333;" vertex="1" connectable="0" parent="QIRS6wlmi_d21vc4t-xI-30">
+          <mxGeometry x="0.2091" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="QIRS6wlmi_d21vc4t-xI-6" target="QIRS6wlmi_d21vc4t-xI-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="990" />
+              <mxPoint x="550" y="875" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-34" value="1:n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="QIRS6wlmi_d21vc4t-xI-33">
+          <mxGeometry x="0.6925" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-37" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="QIRS6wlmi_d21vc4t-xI-6" target="QIRS6wlmi_d21vc4t-xI-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-38" value="1:n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="QIRS6wlmi_d21vc4t-xI-37">
+          <mxGeometry x="0.7466" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-6" value="意向单&lt;br&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;销售体系&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;运营单位&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;历史客户名称&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;一对一委托推广&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;委托方&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;客户类型&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#00994d&quot;&gt;net_order_id 主键，意向单id,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; net_order_front_id&amp;nbsp; 对应网单id,&lt;/div&gt;&lt;div&gt;&amp;nbsp; cust_id&amp;nbsp; 对应客户资料id,&lt;/div&gt;&lt;div&gt;&amp;nbsp; page_source&amp;nbsp; 页面来源:0 多渠道录入,1 400弹屏，2 即时网单弹屏,&lt;/div&gt;&lt;div&gt;&amp;nbsp; business_parent_id&amp;nbsp; 业务分配组(呼入/网单/商桥/其他等),&lt;/div&gt;&lt;div&gt;&amp;nbsp; business_id&amp;nbsp; 业务分配组_业务类型,&lt;/div&gt;&lt;div&gt;&amp;nbsp; net_order_type 意向单类型：3 商机，4 标准，5 待触进，6 待深挖,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;font color=&quot;#009900&quot;&gt;assign_ucid&amp;nbsp; 意向单分配人,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; assign_pos_id&amp;nbsp; 分配人岗位,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; assign_time 分配时间,&lt;/div&gt;&lt;div&gt;&amp;nbsp; expect_min_time 客户希望最早联系时间,&lt;/div&gt;&lt;div&gt;&amp;nbsp; expect_max_time 客户希望早晚联系时间,&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;font color=&quot;#009900&quot;&gt; follow_up_uc_id&amp;nbsp; 跟进人,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; follow_up_pos_id&amp;nbsp; 跟进人岗位,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp;&lt;/font&gt; net_order_status 意向单状态：0.待分配 1.待确认 2.待下发 3.待后续 4.废弃 5.已下发 6.催单 7.下发失败 8 其他需求,&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;font color=&quot;#009900&quot;&gt; company_name&amp;nbsp; 公司名称,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; department&amp;nbsp; 部门(特殊企业、广告代理才有),&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;font color=&quot;#009900&quot;&gt;full_name 公司完整名称,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; cust_type 企业类型:0 普通企业，1特殊企业，2 个人，3 广告代理,&lt;/div&gt;&lt;div&gt;&amp;nbsp; company_remark&amp;nbsp; 公司备注,&lt;/div&gt;&lt;div&gt;&amp;nbsp; call_phone&amp;nbsp; 来电号码,&lt;/div&gt;&lt;div&gt;&amp;nbsp; serve_phone_num&amp;nbsp; 服务小号,&lt;/div&gt;&lt;div&gt;&amp;nbsp; from_prov&amp;nbsp; 来源地域：省,&lt;/div&gt;&lt;div&gt;&amp;nbsp; from_city&amp;nbsp; 来源地域：市,&lt;/div&gt;&lt;div&gt;&amp;nbsp; from_country&amp;nbsp; 来源地域：区/县,&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; address_prov&amp;nbsp; 客户地域：省,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; address_city&amp;nbsp; 客户地域：市,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; address_country&amp;nbsp; 客户地域：区/县,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;font color=&quot;#00994d&quot;&gt; trade1&amp;nbsp; 行业一,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#00994d&quot;&gt;&amp;nbsp; trade2&amp;nbsp; 行业二,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#00994d&quot;&gt;&amp;nbsp; trade3&amp;nbsp; 行业三,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; has_site&amp;nbsp; 网站说明： 0 已有网站,1 暂无网站, 2 未知,&lt;/div&gt;&lt;div&gt;&amp;nbsp; no_web_site_type&amp;nbsp; 暂无网站说明： 0未开始建站,1 协作单位建设中,2 企业自建,&lt;/div&gt;&lt;div&gt;&amp;nbsp; refer&amp;nbsp; 网单来源Refer,&lt;/div&gt;&lt;div&gt;&amp;nbsp; push_label&amp;nbsp; 活动标签,&lt;/div&gt;&lt;div&gt;&amp;nbsp; part_poss&amp;nbsp; 小流量标识,FE统计数据时使用,&lt;/div&gt;&lt;div&gt;&amp;nbsp; submit_time 网单提交时间,&lt;/div&gt;&lt;div&gt;&amp;nbsp; remark&amp;nbsp; 下发备注,&lt;/div&gt;&lt;div&gt;&amp;nbsp; upd_time 更新时间,&lt;/div&gt;&lt;div&gt;&amp;nbsp; upd_uc_id&amp;nbsp; 更新人,&lt;/div&gt;&lt;div&gt;&amp;nbsp; upd_pos_id&amp;nbsp; 更新人岗位,&lt;/div&gt;&lt;div&gt;&amp;nbsp; add_time 录入时间,&lt;/div&gt;&lt;div&gt;&amp;nbsp; add_uc_id&amp;nbsp; 录入人,&lt;/div&gt;&lt;div&gt;&amp;nbsp; add_pos_id&amp;nbsp; 录入人岗位,&lt;/div&gt;&lt;div&gt;&amp;nbsp; version 乐观锁,&lt;/div&gt;&lt;div&gt;&amp;nbsp; csc_source_tag_id&amp;nbsp; CSC来源标签id,&lt;/div&gt;&lt;div&gt;&amp;nbsp; PRIMARY KEY (net_order_id),&lt;/div&gt;&lt;div&gt;&amp;nbsp; KEY idx_follow_up_pos_id_address_city_upd_time (follow_up_pos_id,address_city,upd_time)&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="490" width="350" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-7" value="&lt;font color=&quot;#000000&quot;&gt;网址信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="510" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-8" value="联系人信息" style="whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-10" value="地址信息" style="whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-14" value="附件信息" style="whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="50" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-16" value="归属信息" style="whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-21" value="网址信息：&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;url行业，&lt;br&gt;投放产品&lt;/font&gt;&lt;br&gt;&lt;div&gt;id 主键，唯一性id,&lt;/div&gt;&lt;div&gt;&amp;nbsp; net_order_id 意向单id,&lt;/div&gt;&lt;div&gt;&amp;nbsp; site_status&amp;nbsp; 网站状态：生效1，失效2，未知3,&lt;/div&gt;&lt;div&gt;&amp;nbsp; site_type 网站类型：pc站点0，移动站点 1,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;font color=&quot;#009900&quot;&gt;site_name &lt;/font&gt;网站名称,&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; site_url&lt;/font&gt; 网站URL,&lt;/div&gt;&lt;div&gt;&amp;nbsp; site_domai 网站主域,&lt;/div&gt;&lt;div&gt;&amp;nbsp; add_uc_id 录入人,&lt;/div&gt;&lt;div&gt;&amp;nbsp; add_pos_id 录入人岗位,&lt;/div&gt;&lt;div&gt;&amp;nbsp; add_time&amp;nbsp; 添加时间,&lt;/div&gt;&lt;div&gt;&amp;nbsp; upd_uc_id 更新人,&lt;/div&gt;&lt;div&gt;&amp;nbsp; upd_pos_id 更新人岗位,&lt;/div&gt;&lt;div&gt;&amp;nbsp; upd_time&amp;nbsp; 更新时间,&lt;/div&gt;&lt;div&gt;&amp;nbsp; version 乐观锁,&lt;/div&gt;&lt;div&gt;&amp;nbsp; PRIMARY KEY (id),&lt;/div&gt;&lt;div&gt;&amp;nbsp; KEY idx_net_order_id_url (net_order_id,site_url)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="610" y="720" width="300" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="QIRS6wlmi_d21vc4t-xI-22" target="QIRS6wlmi_d21vc4t-xI-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-36" value="1:n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="QIRS6wlmi_d21vc4t-xI-35">
+          <mxGeometry x="0.4273" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-22" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; 联系人信息：&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;id&#39;主键，联系人唯一id&#39;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &lt;/font&gt;&lt;font color=&quot;#009900&quot;&gt;net_order_id&amp;nbsp; &#39;意向单id&#39;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; contact_status &#39;联系人状态：0：有效，1：失效，2 未知&#39;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; contact_gender &#39;联系人性别：0, 男; 1, 女&#39;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; contact_name&amp;nbsp; &#39;联系人名称&#39;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; contact_duty&amp;nbsp; &#39;联系人职务&#39;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; policy_type&amp;nbsp; &#39;联系人决策类型:1 决策人，2 操作人，3 影响决策人&#39;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; contact_remark&amp;nbsp; &#39;联系人备注&#39;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; add_uc_id&amp;nbsp; &#39;录入人&#39;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; add_pos_id&amp;nbsp; &#39;录入人岗位&#39;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; add_time&amp;nbsp; &#39;添加时间&#39;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; upd_uc_id&amp;nbsp; &#39;更新人&#39;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; upd_pos_id&amp;nbsp; &#39;更新人岗位&#39;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; upd_time&amp;nbsp; &#39;更新时间&#39;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; version &#39;乐观锁&#39;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; PRIMARY KEY (id),&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; KEY idx_net_order_id (net_order_id),&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; KEY index_name (contact_name)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontColor=#FF3333;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="450" width="330" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-23" value="&lt;div&gt;&amp;nbsp; id&amp;nbsp; 主键，唯一性,&lt;/div&gt;&lt;div&gt;&amp;nbsp; contact_id 联系人id,&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;font color=&quot;#009900&quot;&gt; contact_detail_status&amp;nbsp; 联系方式状态0：有效，1：失效,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; contact_detail_type&amp;nbsp; 联系方式: 0,手机; 1，座机; 2, 传真; 3, 邮箱,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; country_code 国家代码,&lt;/div&gt;&lt;div&gt;&amp;nbsp; area_code 区号,&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; contact_info &lt;/font&gt;号码：座机号， 手机号， 传真号或邮箱地址,&lt;/div&gt;&lt;div&gt;&amp;nbsp; ext_info 分机号码,&lt;/div&gt;&lt;div&gt;&amp;nbsp; full_info 完整号码,&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; add_uc_id 录入人,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; add_pos_id 录入人岗位,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; add_time 添加时间,&lt;/div&gt;&lt;div&gt;&amp;nbsp; upd_uc_id 更新人,&lt;/div&gt;&lt;div&gt;&amp;nbsp; upd_pos_id 更新人岗位,&lt;/div&gt;&lt;div&gt;&amp;nbsp; upd_time 更新时间,&lt;/div&gt;&lt;div&gt;&amp;nbsp; version&amp;nbsp; 乐观锁,&lt;/div&gt;&lt;div&gt;&amp;nbsp; PRIMARY KEY (id),&lt;/div&gt;&lt;div&gt;&amp;nbsp; KEY idx_contact_id (contact_id),&lt;/div&gt;&lt;div&gt;&amp;nbsp; KEY index_full_info (full_info)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="450" width="390" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-26" value="&lt;div&gt;&lt;span style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;地址信息：&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;div&gt;&lt;span&gt;详细地址&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;地址类型&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#009900;align=left;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1070" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QIRS6wlmi_d21vc4t-xI-29" value="附件信息&lt;br&gt;&lt;div&gt;&lt;span&gt;附件名称&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontColor=#FF3333;align=left;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
